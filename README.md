@@ -1,5 +1,7 @@
-# Data-Science-Crash-Course
+# Data Science Crash-Course
 As part of my continued research for automated testing, I've created a compilation of online resources from colleagues, data scientists, QA testers, and more that I believe is thorough to get started on machine learning and testing.  This list is a work in progress, and I expect to add more resources over time.
+
+![Alt Text](https://media.giphy.com/media/OFIsBxe3v7mKI/giphy.gif)
 
 ## Getting started with Python
 Python is lays down the foundation in a language that is more popular with data science.  Most data science materials out there is taught in Python - even if you're familiar with the language, getting a solid foundation in Python syntax will help you understand the intricasies of working with a dynamic language in scripting.
