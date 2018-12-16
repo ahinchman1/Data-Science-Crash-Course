@@ -13,6 +13,8 @@ https://www.codecademy.com/learn/learn-python
 ### MIT 6.0002 Introduction to Computational Thinking and Data Science
 Shoutout to MIT for posting their full course online on YouTube - hooray for accessibility for computer science education! Each lecture is roughly 50 minutes and there's a total of 15. 
 
+https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
+
 **Topics Covered**
  1.  Introduction and Optimization Problem
  2.  Optimization Problems
@@ -29,8 +31,6 @@ Shoutout to MIT for posting their full course online on YouTube - hooray for acc
  13. Classification
  14. Classification and Statistical Sins
  15. Statistical Sins and Wrap Up
-
-https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
 
 ### Thomas Nield's Kotlin Science Data Resources 
 Data Science for Statically Typed folks! Those with Java or Kotlin backgrounds. 
