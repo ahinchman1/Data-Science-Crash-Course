@@ -4,7 +4,7 @@ As part of my continued research for automated testing, I've created a compilati
 ![Alt Text](https://media.giphy.com/media/OFIsBxe3v7mKI/giphy.gif)
 
 ## Getting started with Python
-Python is lays down the foundation in a language that is more popular with data science.  Most data science materials out there is taught in Python - even if you're familiar with the language, getting a solid foundation in Python syntax will help you understand the intricasies of working with a dynamic language in scripting.
+Python lays down the foundation in a language that is more popular with data science.  Most data science materials out there is taught in Python - even if you're familiar with the language, getting a solid foundation in Python syntax will help you understand the intricasies of working with a dynamic language in scripting.
 
 https://www.codecademy.com/learn/learn-python
 
