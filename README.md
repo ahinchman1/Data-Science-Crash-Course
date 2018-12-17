@@ -13,7 +13,7 @@ https://www.codecademy.com/learn/learn-python
 ## Stats and Machine Learning
 
 ### MIT 6.0002 Introduction to Computational Thinking and Data Science
-Shoutout to MIT for posting their full course online on YouTube - hooray for accessibility for computer science education! Each lecture is roughly 50 minutes and there's a total of 15. 
+Shoutout to MIT for posting their full course online on YouTube - hooray for accessibility for computer science education! Each lecture is roughly 50 minutes and there's a total of 15. So far, I really like the contents of this course. I've personally hated everything stats/modeling-related and not only does MIT have a habit of explaining things simply, but they take a computer science approach that revolves data structures around real-world problems.  My kind of psuedo-science!
 
 https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
 
