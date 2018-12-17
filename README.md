@@ -35,7 +35,7 @@ Shoutout to MIT for posting their full course online on YouTube - hooray for acc
  15. Statistical Sins and Wrap Up
 
 ### Thomas Nield's Kotlin Science Data Resources 
-Data Science for Statically Typed folks! Those with Java or Kotlin backgrounds. 
+Data Science for statically-typed folks (those with Java or Kotlin backgrounds). 
 
 https://github.com/thomasnield/kotlin-data-science-resources
 
