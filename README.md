@@ -48,4 +48,4 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Demystifying Machine Learning, Part 6](http://testerstories.com/2018/09/demystifying-machine-learning-part-6/)
 
 ### Kaggle
-[Kaggle](https://www.kaggle.com/) is a platform for predictive modelling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
+[Kaggle](https://www.kaggle.com/) is a platform for predictive modeling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
