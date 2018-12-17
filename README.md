@@ -17,6 +17,8 @@ Shoutout to MIT for posting their full course online on YouTube - hooray for acc
 
 **Playlist**: https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
 
+**Corresponding Notes and Python Files to Lectures:** https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-slides-and-files/
+
 **Topics Covered**
  1.  Introduction and Optimization Problem
  2.  Optimization Problems
