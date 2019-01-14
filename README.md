@@ -51,3 +51,15 @@ https://github.com/thomasnield/kotlin-data-science-resources
 
 ### Kaggle
 [Kaggle](https://www.kaggle.com/) is a platform for predictive modeling and analytics competitions in which companies and researchers post data and statisticians and data miners compete to produce the best models for predicting and describing the data.
+
+### Tensorflow Learn and Use ML
+* [Basic Classification](https://www.tensorflow.org/tutorials/keras/basic_classification)
+* [Text Classification](https://www.tensorflow.org/tutorials/keras/basic_text_classification)
+
+
+### Google Developers Guide to Machine Learning
+* [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
+* [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
+
+
+
