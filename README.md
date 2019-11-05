@@ -62,6 +62,7 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
 
 ### Convolutional Neural Networks (CNN)
+* [Convolutional Neural Networks explained](https://deeplizard.com/learn/video/YRhxdVk_sIs)
 * Most popular for analyzing images
 * Some kind of neural networking that has some type of specialization for being able to detect patterns
 
