@@ -62,7 +62,23 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
 
 ### Convolutional Neural Networks (CNN)
+* Most popular for analyzing images
+* Some kind of neural networking that has some type of specialization for being able to detect patterns
+* What makes CNN stand out from a multilayered perceptron (M
+LP)?
+    * A CNN has hidden layers, or convolutional layers. They may also have non-convolutional layers
+* What do convolutional layers do?
+    * Just like any other layer, a convolutional layer receives input then  transforms the input in some way and then outputs the transform input to the next layer
+    * With the convolutional layer, the transform is a convolution operation
+    * With each convolutional layer we need to specify the number of layers a filter should have. These filters are what are able to be able to detect patterns
+        * What kind of patterns?
+            * Edges (Edge detectors) - circles, squares, edges
+            * Deeper layers can detect more sophisticated objects
+    * A filter is a matrix where the value of the matrix are initialized with random numbers.
+        * That filter, whatever the initialized form is (i.e 3 x 3) will slide over every possible block (3 x 3 set) of pixels in an image: the sliding of the image convolves 
+        
  * [Practical Deep Learning for Coders: Collaborative Filtering, Embeddings, and More](https://www.youtube.com/watch?v=V2h3IOBDvrA)
+ * Take this one with a grain of salt: [StackOverflow: Analysis of Convoluted Layers (for a first layer)](https://stackoverflow.com/questions/959524/basic-complexity-question-convolution)
 
 
 
