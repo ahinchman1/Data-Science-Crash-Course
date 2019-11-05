@@ -64,8 +64,8 @@ https://github.com/thomasnield/kotlin-data-science-resources
 ### Convolutional Neural Networks (CNN)
 * Most popular for analyzing images
 * Some kind of neural networking that has some type of specialization for being able to detect patterns
-* What makes CNN stand out from a multilayered perceptron (M
-LP)?
+
+What makes CNN stand out from a multilayered perceptron (MLP)?
     * A CNN has hidden layers, or convolutional layers. They may also have non-convolutional layers
 * What do convolutional layers do?
     * Just like any other layer, a convolutional layer receives input then  transforms the input in some way and then outputs the transform input to the next layer
