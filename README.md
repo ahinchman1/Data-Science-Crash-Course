@@ -61,5 +61,8 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
 
+### Convolutional Neural Networks (CNN)
+ * [Practical Deep Learning for Coders: Collaborative Filtering, Embeddings, and More](https://www.youtube.com/watch?v=V2h3IOBDvrA)
+
 
 
