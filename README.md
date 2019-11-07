@@ -61,6 +61,11 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Rules of Machine Learning](https://developers.google.com/machine-learning/guides/rules-of-ml/)
 * [Text Classification](https://developers.google.com/machine-learning/guides/text-classification/)
 
+### AI Locator Mechanisms
+* [GUI Tests Powered by Deep Learning](https://tech.ebayinc.com/research/gui-testing-powered-by-deep-learning/)
+* [Automatic Detection of GUI Design Smells: The Case of the Blob Listener](https://arxiv.org/pdf/1703.08803.pdf)
+* [From UI Design Image to GUI Skeleton: A Neural Machine Translator to Bootstrap Mobile GUI Implementation](https://chunyang-chen.github.io/publication/ui2code.pdf)
+
 ### Convolutional Neural Networks (CNN)
 * [Convolutional Neural Networks explained](https://deeplizard.com/learn/video/YRhxdVk_sIs)
 * Most popular for analyzing images
