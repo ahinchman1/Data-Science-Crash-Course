@@ -68,6 +68,7 @@ https://github.com/thomasnield/kotlin-data-science-resources
 
 ### Convolutional Neural Networks (CNN)
 * [Convolutional Neural Networks explained](https://deeplizard.com/learn/video/YRhxdVk_sIs)
+* [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 * Most popular for analyzing images
 * Some kind of neural networking that has some type of specialization for being able to detect patterns
 
