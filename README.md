@@ -94,6 +94,7 @@ What makes CNN stand out from a multilayered perceptron (MLP)?
  * [Can AI Become a tester?](http://testerstories.com/2018/08/can-an-ai-become-a-tester/)
  * [ML GUI-based Regression Testing](https://arxiv.org/pdf/1802.03768.pdf) 
  * [Using a neural network in the software testing process](https://www.researchgate.net/publication/220063934_Using_a_neural_network_in_the_software_testing_process)
+ * [Computational Complexity of Neural Networks (forward propagation and backwards propagation](https://kasperfred.com/series/introduction-to-neural-networks/computational-complexity-of-neural-networks)
 
 
 
