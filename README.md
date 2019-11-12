@@ -89,6 +89,7 @@ What makes CNN stand out from a multilayered perceptron (MLP)?
  
  
  ### Supervised Learning
+ ![Alt Text](https://github.com/ahinchman1/Data-Science-Crash-Course/blob/master/Screen%20Shot%202019-11-12%20at%201.19.00%20AM.png)
  * **Classification:** - See Convolutional Neural Networks
  * **Regression:** - [Can AI Become a tester?](http://testerstories.com/2018/08/can-an-ai-become-a-tester/)
 
