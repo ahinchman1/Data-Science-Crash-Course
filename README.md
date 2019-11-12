@@ -66,7 +66,9 @@ https://github.com/thomasnield/kotlin-data-science-resources
 * [Automatic Detection of GUI Design Smells: The Case of the Blob Listener](https://arxiv.org/pdf/1703.08803.pdf)
 * [From UI Design Image to GUI Skeleton: A Neural Machine Translator to Bootstrap Mobile GUI Implementation](https://chunyang-chen.github.io/publication/ui2code.pdf)
 
-### Convolutional Neural Networks (CNN)
+ ![Alt Text](https://github.com/ahinchman1/Data-Science-Crash-Course/blob/master/Screen%20Shot%202019-11-12%20at%201.19.00%20AM.png)
+
+### Supervised Learning: Classification with Convolutional Neural Networks (CNN)
 * [Convolutional Neural Networks explained](https://deeplizard.com/learn/video/YRhxdVk_sIs)
 * [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 * Most popular for analyzing images
@@ -88,11 +90,10 @@ What makes CNN stand out from a multilayered perceptron (MLP)?
  * Take this one with a grain of salt: [StackOverflow: Analysis of Convoluted Layers (for a first layer)](https://stackoverflow.com/questions/959524/basic-complexity-question-convolution)
  
  
- ### Supervised Learning
- ![Alt Text](https://github.com/ahinchman1/Data-Science-Crash-Course/blob/master/Screen%20Shot%202019-11-12%20at%201.19.00%20AM.png)
- * **Classification:** - See Convolutional Neural Networks
- * **Regression:** - [Can AI Become a tester?](http://testerstories.com/2018/08/can-an-ai-become-a-tester/)
- * **Regression** - [ML GUI-based Regression Testing](https://arxiv.org/pdf/1802.03768.pdf) 
+ ### Supervised Learning: Regression with Artificial Neural Networking
+ * [Can AI Become a tester?](http://testerstories.com/2018/08/can-an-ai-become-a-tester/)
+ * [ML GUI-based Regression Testing](https://arxiv.org/pdf/1802.03768.pdf) 
+ * [Using a neural network in the software testing process](https://www.researchgate.net/publication/220063934_Using_a_neural_network_in_the_software_testing_process)
 
 
 
