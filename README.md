@@ -88,6 +88,7 @@ What makes CNN stand out from a multilayered perceptron (MLP)?
         
  * [Practical Deep Learning for Coders: Collaborative Filtering, Embeddings, and More](https://www.youtube.com/watch?v=V2h3IOBDvrA)
  * Take this one with a grain of salt: [StackOverflow: Analysis of Convoluted Layers (for a first layer)](https://stackoverflow.com/questions/959524/basic-complexity-question-convolution)
+ * [Understand the softmax function in minutes](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d)
  
  
  ### Supervised Learning: Regression with Artificial Neural Networking
